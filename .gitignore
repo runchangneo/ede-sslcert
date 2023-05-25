@@ -1,0 +1,6 @@
+.vscode
+certificates/*
+!certificates/CA.crt
+!certificates/CA.key
+!certificates/CA.srl
+!certificates/localhost
